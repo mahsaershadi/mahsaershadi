@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahsa Ershadipour
 - 👀 I’m interested in programming, web desig and AI
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning back-end developing
 - 📫 How to reach me my email: mahsa.ershadipour.81@gmail.com
 
 <!---
